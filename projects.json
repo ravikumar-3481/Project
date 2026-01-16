@@ -53,4 +53,23 @@
     "tags": ["Mobile First", "Wordpress", "UI/UX"],
     "link": "#"
   }
+  
+  {
+    "id": 7,
+    "title": "Student Management System",
+    "category": "Development",
+    "description": "A complete web-based Student Management System that handles student records, marksheets, PDF exports, role-based login (Admin, HOD, Teacher, Student), and secure data management.",
+    "image": "https://images.unsplash.com/photo-1584697964403-bfa5b9b7c2b1?auto=format&fit=crop&q=80&w=800",
+    "tags": ["HTML", "CSS", "JavaScript", "Python", "PDF Export"],
+    "link": "#"
+  },
+  {
+    "id": 8,
+    "title": "AI Resume Analyzer (ATS System)",
+    "category": "SEO",
+    "description": "An AI-powered ATS Resume Analyzer that scores resumes, extracts keywords, checks job match percentage, and improves ATS compatibility using NLP techniques.",
+    "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?auto=format&fit=crop&q=80&w=800",
+    "tags": ["AI", "NLP", "Python", "ATS", "Machine Learning"],
+    "link": "#"
+  }
 ]
