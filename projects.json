@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "title": "E-Commerce Optimization",
+    "category": "SEO",
+    "description": "Boosted organic traffic by 150% through technical SEO audits and keyword restructuring for a major retail brand.",
+    "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&q=80&w=800",
+    "tags": ["Ahrefs", "Schema", "Speed Optimization"],
+    "link": "#"
+  },
+  {
+    "id": 2,
+    "title": "SaaS Dashboard UI",
+    "category": "Development",
+    "description": "Developed a high-performance React dashboard with real-time data visualization and dark mode support.",
+    "image": "https://images.unsplash.com/photo-1551288049-bbda48652ad8?auto=format&fit=crop&q=80&w=800",
+    "tags": ["React", "Tailwind", "Chart.js"],
+    "link": "#"
+  },
+  {
+    "id": 3,
+    "title": "Agency Landing Page",
+    "category": "Design",
+    "description": "Custom designed landing page focused on conversion rate optimization (CRO) and modern aesthetics.",
+    "image": "https://images.unsplash.com/photo-1467232004584-a241de8bcf5d?auto=format&fit=crop&q=80&w=800",
+    "tags": ["Figma", "Branding", "Responsive"],
+    "link": "#"
+  },
+  {
+    "id": 4,
+    "title": "Local SEO Campaign",
+    "category": "SEO",
+    "description": "Implemented localized SEO strategies for a law firm, resulting in #1 rankings for target geographic keywords.",
+    "image": "https://images.unsplash.com/photo-1434626881859-194d67b2b86f?auto=format&fit=crop&q=80&w=800",
+    "tags": ["GMB", "Citations", "Backlinking"],
+    "link": "#"
+  },
+  {
+    "id": 5,
+    "title": "Crypto Portfolio Tracker",
+    "category": "Development",
+    "description": "A web application that fetches real-time cryptocurrency prices using REST APIs and manages user portfolios.",
+    "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?auto=format&fit=crop&q=80&w=800",
+    "tags": ["JavaScript", "API", "Secure"],
+    "link": "#"
+  },
+  {
+    "id": 6,
+    "title": "Travel Blog Redesign",
+    "category": "Design",
+    "description": "Complete UI overhaul for a travel blogger with a focus on high-quality imagery and mobile reading experience.",
+    "image": "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?auto=format&fit=crop&q=80&w=800",
+    "tags": ["Mobile First", "Wordpress", "UI/UX"],
+    "link": "#"
+  }
+]
